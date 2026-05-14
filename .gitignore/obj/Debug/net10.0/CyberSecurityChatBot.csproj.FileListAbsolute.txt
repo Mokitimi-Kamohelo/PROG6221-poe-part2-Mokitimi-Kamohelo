@@ -1,0 +1,19 @@
+C:\Users\prodk\Desktop\PROG6221 POE\CyberSecurityChatBot\CyberSecurityChatBot\obj\Debug\net10.0\CyberSecurityChatBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prodk\Desktop\PROG6221 POE\CyberSecurityChatBot\CyberSecurityChatBot\obj\Debug\net10.0\CyberSecurityChatBot.AssemblyInfoInputs.cache
+C:\Users\prodk\Desktop\PROG6221 POE\CyberSecurityChatBot\CyberSecurityChatBot\obj\Debug\net10.0\CyberSecurityChatBot.AssemblyInfo.cs
+C:\Users\prodk\Desktop\PROG6221 POE\CyberSecurityChatBot\CyberSecurityChatBot\obj\Debug\net10.0\CyberSecurityChatBot.csproj.CoreCompileInputs.cache
+C:\Users\prodk\Desktop\PROG6221 POE\CyberSecurityChatBot\CyberSecurityChatBot\bin\Debug\net10.0\CyberSecurityChatBot.exe
+C:\Users\prodk\Desktop\PROG6221 POE\CyberSecurityChatBot\CyberSecurityChatBot\bin\Debug\net10.0\CyberSecurityChatBot.deps.json
+C:\Users\prodk\Desktop\PROG6221 POE\CyberSecurityChatBot\CyberSecurityChatBot\bin\Debug\net10.0\CyberSecurityChatBot.runtimeconfig.json
+C:\Users\prodk\Desktop\PROG6221 POE\CyberSecurityChatBot\CyberSecurityChatBot\bin\Debug\net10.0\CyberSecurityChatBot.dll
+C:\Users\prodk\Desktop\PROG6221 POE\CyberSecurityChatBot\CyberSecurityChatBot\bin\Debug\net10.0\CyberSecurityChatBot.pdb
+C:\Users\prodk\Desktop\PROG6221 POE\CyberSecurityChatBot\CyberSecurityChatBot\bin\Debug\net10.0\System.Windows.Extensions.dll
+C:\Users\prodk\Desktop\PROG6221 POE\CyberSecurityChatBot\CyberSecurityChatBot\bin\Debug\net10.0\runtimes\win\lib\net10.0\System.Windows.Extensions.dll
+C:\Users\prodk\Desktop\PROG6221 POE\CyberSecurityChatBot\CyberSecurityChatBot\obj\Debug\net10.0\CyberSecurityChatBot.csproj.AssemblyReference.cache
+C:\Users\prodk\Desktop\PROG6221 POE\CyberSecurityChatBot\CyberSecurityChatBot\obj\Debug\net10.0\CyberSec.5E7E792A.Up2Date
+C:\Users\prodk\Desktop\PROG6221 POE\CyberSecurityChatBot\CyberSecurityChatBot\obj\Debug\net10.0\CyberSecurityChatBot.dll
+C:\Users\prodk\Desktop\PROG6221 POE\CyberSecurityChatBot\CyberSecurityChatBot\obj\Debug\net10.0\refint\CyberSecurityChatBot.dll
+C:\Users\prodk\Desktop\PROG6221 POE\CyberSecurityChatBot\CyberSecurityChatBot\obj\Debug\net10.0\CyberSecurityChatBot.pdb
+C:\Users\prodk\Desktop\PROG6221 POE\CyberSecurityChatBot\CyberSecurityChatBot\obj\Debug\net10.0\CyberSecurityChatBot.genruntimeconfig.cache
+C:\Users\prodk\Desktop\PROG6221 POE\CyberSecurityChatBot\CyberSecurityChatBot\obj\Debug\net10.0\ref\CyberSecurityChatBot.dll
+C:\Users\prodk\Desktop\PROG6221 POE\CyberSecurityChatBot\CyberSecurityChatBot\bin\Debug\net10.0\Assets\Chatbot welcome audio.wav
